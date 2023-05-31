@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\bin\Debug\AppSupermercado.exe.config
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\bin\Debug\AppSupermercado.exe
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\bin\Debug\AppSupermercado.pdb
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.Form1.resources
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.exe
+C:\Users\Usuario\Documents\GitHub\AppSupermercado\AppSupermercado\AppSupermercado\obj\Debug\AppSupermercado.pdb
