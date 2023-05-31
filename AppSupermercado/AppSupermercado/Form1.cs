@@ -23,6 +23,8 @@ namespace AppSupermercado
             double ValorUnt = double.Parse(txtValorUnt.Text); 
             int Quantidade = int.Parse(txtQuantidade.Text);
             string Produto = txtProduto.Text;
+            double Valor = ValorUnt * Quantidade;
+
 
             ValorTotal = Valor + ValorTotal;
 
